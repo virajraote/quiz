@@ -160,6 +160,24 @@
               }
           ],
           "explanation": "this.propertyName is the way to access a specific property within a class"
-      }
+      },
+      {
+        "questionText": "Which component is used to compile, debug and execute the java programs?",
+        "options": [{
+                "text": "JDK",
+                "correct": true
+            },
+            {
+                "text": "JRE"
+            },
+            {
+                "text": "JIT"
+            },
+            {
+                "text": "JVM"
+            }
+        ],
+        "explanation": "this.propertyName is the way to access a specific property within a class"
+    }
   ]
 }
