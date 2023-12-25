@@ -177,7 +177,7 @@
                 "text": "JVM"
             }
         ],
-        "explanation": "this.propertyName is the way to access a specific property within a class"
+        "explanation": "JDK is a core component of Java Environment and provides all the tools, executables and binaries required to compile, debug and execute a Java Program"
     }
   ]
 }
